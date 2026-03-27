@@ -235,6 +235,9 @@ public class QuizMasterApp {
         });
     }
 }
+![1](https://github.com/user-attachments/assets/bb1ceb8b-e847-41e4-bdee-6ef023365da5)
+![2](https://github.com/user-attachments/assets/ed5ff894-d9bd-4d24-aa38-6738f52d2be5)
+
 📌 Future Improvements
 🔊 Sound effects for correct/incorrect answers
 🗂️ Load questions from database or JSON
